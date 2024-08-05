@@ -1,0 +1,16 @@
+Practica 1 Vue 3
+
+Integrantes:
+-Perez Rojas, Eddy Pastor
+
+
+
+Pasos para iniciar el proyecto en Vue
+
+1)npm install -g @vue/cli
+
+2)vue create practica1
+
+3)npm intall
+
+4)npm run serve
